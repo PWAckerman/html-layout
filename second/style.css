@@ -1,3 +1,7 @@
+body {
+  margin: 0px;
+}
+
 #colorbar1 {
   width: 33.3%;
   height: 100vh;
@@ -26,10 +30,10 @@
   width: 100%;
   color: white;
   font-family: sans-serif;
-  line-height: 100px;
+  line-height: 250px;
   text-align: center;
   font-size: 25px;
-  height: 100px;
+  height: 250px;
   position: absolute;
   bottom: 0;
 }

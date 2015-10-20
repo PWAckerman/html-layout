@@ -1,0 +1,48 @@
+.bar {
+  height: 125px;
+  width: 100%;
+  padding-left: 10px;
+  padding-top: 10px;
+  margin-bottom: -10px;
+}
+
+body{
+  margin: 0px;
+}
+
+.outside-text {
+  padding: 50px;
+}
+
+.inside-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.avatarbox {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(33, 144, 224);
+}
+
+#heading {
+  background-color: rgb(113, 113, 113);
+}
+
+#text {
+  background-color: white;
+  height: auto;
+}
+
+#b1 {
+  background-color: rgb(33, 144, 224);
+}
+#b2 {
+  background-color: rgb(33, 224, 201);
+}
+#b3 {
+  background-color: rgb(119, 249, 148);
+}
+#b4 {
+  background-color: rgb(160, 255, 94);
+}
